@@ -6,7 +6,6 @@ import java.util.*;
 // everything is a class or object in Java.
 // work is done using methods.
 // Scanner is used to create an input stream.
-// System class is used to create an output stream and give output
 // nextInt() method for int and nextLine() method for Strings
 
 public class Solution {
